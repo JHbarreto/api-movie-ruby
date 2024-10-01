@@ -1,0 +1,22 @@
+class CrudModel < ApplicationRecord
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+end
