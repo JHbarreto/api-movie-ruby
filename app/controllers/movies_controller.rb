@@ -4,7 +4,7 @@ class MoviesController < BaseCrudController
   end
 
   def create_params
-    params.permit([:name, :released_at])
+    params.permit([:name, :released_at , :user])
   end
   
 end
